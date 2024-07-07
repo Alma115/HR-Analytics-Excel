@@ -1,6 +1,6 @@
 # Sales-Analytics-Excel
 
-Visualization : [Lihat dashboard](https://drive.google.com/file/d/1jfQKeFouPtujSAvZ38QPVoljyTkaPeMO/view?usp=sharing)<br>
+Visualization : [Lihat dashboard](https://drive.google.com/file/d/14kivv3URn3YUSSWxTgbEBKyZbzNz2qTH/view?usp=sharing)<br>
 Dataset : [Lihat dataset](https://docs.google.com/spreadsheets/d/15yHxAFGDHCs0MzeN2VBkEXLWhIXr48jF/edit?usp=sharing&ouid=106521585339210220872&rtpof=true&sd=true)<br>
 Project Detail : [Lihat project](https://drive.google.com/file/d/1EVDaTP_s28s2e1J8ncqy8ewb3k5gcr7k/view?usp=sharing)<br>
 
