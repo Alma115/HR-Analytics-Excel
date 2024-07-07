@@ -14,6 +14,7 @@ Project ini bertujuan untuk mengembangkan sebuah dashboard analisa penjualan yan
 <br>
 Dashboard yang komprehensif dibuat menggunakan slicer, filter, pivot table, dan report connection yang beradda di microsoft excel.
 
+![Image description](Dashboard.jpg)
 ---
 ***Terima Kasih***
 <br>
